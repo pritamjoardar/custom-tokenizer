@@ -4,6 +4,9 @@ This project is a **custom tokenizer tool** built with **Next.js 14 (App Router)
 It can **encode** text into ASCII codes and **decode** ASCII codes back into readable text — all via a simple web UI.
 
 Visit here 👉 [customtokenizer](https://custom-tokenizer-five.vercel.app/)
+
+[![Alt text](https://raw.githubusercontent.com/pritamjoardar/custom-tokenizer/main/home.png)](https://custom-tokenizer-five.vercel.app/)
+
 ## 📂 Project Structure
 
 [app](./app)  
@@ -16,7 +19,6 @@ Visit here 👉 [customtokenizer](https://custom-tokenizer-five.vercel.app/)
 ├── [ui](./components/ui) # UI components (Button, Form, Textarea, etc.)
 
 
-
 ## ⚙ Features
 
 - **Tokenization**: Splits text into tokens by spaces.
@@ -27,7 +29,6 @@ Visit here 👉 [customtokenizer](https://custom-tokenizer-five.vercel.app/)
 - **Validation**: Requires at least 2 characters before submission.
 - **Type Safety**: Fully typed using **TypeScript**.
 - **API-Driven**: Backend handles the encoding/decoding, frontend just displays results.
-
 ---
 
 ## 📦 Backend API
