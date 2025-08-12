@@ -3,7 +3,7 @@
 This project is a **custom tokenizer tool** built with **Next.js 14 (App Router)**, **TypeScript**, **React Query**, and **React Hook Form**.  
 It can **encode** text into ASCII codes and **decode** ASCII codes back into readable text — all via a simple web UI.
 
-Visit here 👉 [customtokenizer](https://chatgpt.com/c/6892424e-b758-800a-a408-c79ce8a209dd)
+Visit here 👉 [customtokenizer](https://custom-tokenizer-five.vercel.app/)
 ## 📂 Project Structure
 
 [app](./app)  
